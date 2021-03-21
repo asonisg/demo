@@ -1,0 +1,6 @@
+# Set the language
+language: php
+
+services:
+  # Use Docker command line
+  - docker
