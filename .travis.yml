@@ -6,4 +6,4 @@ php:
   # using major version aliases
 
   # aliased to 5.2.17
-  - 5.2
+  - 7.4
